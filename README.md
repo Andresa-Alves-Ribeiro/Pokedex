@@ -1,4 +1,4 @@
-# Silveira-pokedex1
+# Pokedex
 
 Nome dos integrantes: <br>
 -Bernardo braga <br>
@@ -6,11 +6,6 @@ Nome dos integrantes: <br>
 
 Link do Surge: https://itchy-house.surge.sh/
 
-O que funciona:
-- Tudo funcionando corretamente
-
-O que não funciona: 
-- XXXXXX
 
 Prints:
 <br>
